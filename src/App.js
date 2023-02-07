@@ -11,7 +11,7 @@ function App() {
     <div>
 
      <Navbar/>  
-     <Skuska/>
+     {/* <Skuska/> */}
       <VrchStranky/>
       <Obchody/>
       {/* <Kruh/> */}
